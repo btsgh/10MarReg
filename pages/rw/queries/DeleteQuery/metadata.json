@@ -135,9 +135,9 @@
       "name": "r/w",
       "pluginId": "google-sheets-plugin"
     },
-    "executeOnLoad": false,
     "name": "DeleteQuery",
     "pageId": "rw",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
