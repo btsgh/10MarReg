@@ -56,6 +56,10 @@
     {
       "id": "Page4",
       "isDefault": false
+    },
+    {
+      "id": "Public.users",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
