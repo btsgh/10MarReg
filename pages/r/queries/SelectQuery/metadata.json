@@ -155,9 +155,9 @@
       "name": "r",
       "pluginId": "google-sheets-plugin"
     },
-    "executeOnLoad": true,
     "name": "SelectQuery",
     "pageId": "r",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": true
   }
 }

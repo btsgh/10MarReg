@@ -121,9 +121,9 @@
       "name": "r/w",
       "pluginId": "google-sheets-plugin"
     },
-    "executeOnLoad": false,
     "name": "InsertQuery",
     "pageId": "rw",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
