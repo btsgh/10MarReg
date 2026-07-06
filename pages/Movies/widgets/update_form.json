@@ -223,6 +223,12 @@
       "key": "schema.__root_schema__.children.status.accentColor"
     },
     {
+      "key": "schema.__root_schema__.children.genres.children.__array_item__.borderRadius"
+    },
+    {
+      "key": "schema.__root_schema__.children.genres.cellBorderRadius"
+    },
+    {
       "key": "schema.__root_schema__.children.genres.children.__array_item__.children.name.borderRadius"
     },
     {
@@ -235,13 +241,7 @@
       "key": "schema.__root_schema__.children.genres.children.__array_item__.children.id.accentColor"
     },
     {
-      "key": "schema.__root_schema__.children.genres.children.__array_item__.borderRadius"
-    },
-    {
       "key": "schema.__root_schema__.children.genres.children.__array_item__.cellBorderRadius"
-    },
-    {
-      "key": "schema.__root_schema__.children.genres.cellBorderRadius"
     }
   ],
   "dynamicHeight": "FIXED",

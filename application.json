@@ -19,7 +19,7 @@
   "pages": [
     {
       "id": "Page1",
-      "isDefault": true
+      "isDefault": false
     },
     {
       "id": "selected",
@@ -39,7 +39,7 @@
     },
     {
       "id": "Movies",
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "Page2",
